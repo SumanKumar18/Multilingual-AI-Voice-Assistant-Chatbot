@@ -154,7 +154,7 @@ Before running the application, ensure that you have:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/SumanKumar18/Multilingual-AI-Voice-Assistant-Chatbot/tree/main
 ```
 
 ### 2️⃣ Navigate to the Project Directory
