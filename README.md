@@ -110,19 +110,6 @@ The application is configured for the following languages:
 
 ---
 
-## 📂 Project Structure
-
-```text
-Multilingual-AI-Voice-Assistant/
-│
-├── app.py                  # Main Streamlit application
-├── requirements.txt        # Python dependencies
-├── README.md               # Project documentation
-├── .gitignore              # Files excluded from Git
-│
-└── screenshots/             # Optional application screenshots
-    └── app-preview.png
-```
 
 ---
 
